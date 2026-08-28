@@ -1,0 +1,50 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Daily Quote and Update README
+        run: |
+          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+          FORMATTED_QUOTE="> \"$QUOTE\"\n> — **$AUTHOR**"
+          
+          python3 -c "
+          import re
+          quote_text = '''<!-- START_QUOTE -->\n$FORMATTED_QUOTE\n<!-- END_QUOTE -->'''
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          new_content = re.sub(
+              r'<!-- START_QUOTE -->.*?<!-- END_QUOTE -->',
+              quote_text,
+              content,
+              flags=re.DOTALL
+          )
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan."
+          else
+            git commit -m "docs: update daily quote [skip ci]"
+            git push
+          fi
