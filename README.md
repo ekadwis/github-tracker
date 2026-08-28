@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Talk is cheap. Show me the code."
-> — Linus Torvalds
+> "There is a difference between giving directions and giving direction."
+> — **Simon Sinek**
 <!-- END_QUOTE -->
 
 ---
