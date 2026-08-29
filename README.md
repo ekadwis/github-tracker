@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "There is a difference between giving directions and giving direction."
-> — **Simon Sinek**
+> "If your mind is empty, it is always ready for anything, it is open to everything."
+> — **Shunryu Suzuki**
 <!-- END_QUOTE -->
 
 ---
