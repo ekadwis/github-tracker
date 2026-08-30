@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "If your mind is empty, it is always ready for anything, it is open to everything."
-> — **Shunryu Suzuki**
+> "Fools resist. The wise embrace."
+> — **Maxime Lagace**
 <!-- END_QUOTE -->
 
 ---
