@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Fools resist. The wise embrace."
-> — **Maxime Lagace**
+> "Failure is not fatal, but failure to change might be."
+> — **John Wooden**
 <!-- END_QUOTE -->
 
 ---
