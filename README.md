@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Failure is not fatal, but failure to change might be."
-> — **John Wooden**
+> "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart."
+> — **St. Jerome**
 <!-- END_QUOTE -->
 
 ---
