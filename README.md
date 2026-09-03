@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart."
-> — **St. Jerome**
+> "Your success and happiness lie in you."
+> — **Helen Keller**
 <!-- END_QUOTE -->
 
 ---
