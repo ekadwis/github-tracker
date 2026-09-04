@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Your success and happiness lie in you."
-> — **Helen Keller**
+> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
+> — **Josh Waitzkin**
 <!-- END_QUOTE -->
 
 ---
