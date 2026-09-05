@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
-> — **Josh Waitzkin**
+> "Always turn a negative situation into a positive situation."
+> — **Michael Jordan**
 <!-- END_QUOTE -->
 
 ---
