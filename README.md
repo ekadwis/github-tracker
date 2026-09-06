@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Always turn a negative situation into a positive situation."
-> — **Michael Jordan**
+> "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+> — **Buddha**
 <!-- END_QUOTE -->
 
 ---
