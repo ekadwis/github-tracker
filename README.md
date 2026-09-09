@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Trust your instincts: my first reaction is almost invariably the right one."
-> — **Estee Lauder**
+> "Where does a thought go when it's forgotten?"
+> — **Sigmund Freud**
 <!-- END_QUOTE -->
 
 ---
