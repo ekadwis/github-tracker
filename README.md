@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Where does a thought go when it's forgotten?"
-> — **Sigmund Freud**
+> "Never test the depth of river with both the feet."
+> — **Warren Buffett**
 <!-- END_QUOTE -->
 
 ---
