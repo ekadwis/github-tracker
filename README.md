@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Never test the depth of river with both the feet."
-> — **Warren Buffett**
+> "Evil is whatever distracts."
+> — **Franz Kafka**
 <!-- END_QUOTE -->
 
 ---
