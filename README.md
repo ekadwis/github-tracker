@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Evil is whatever distracts."
-> — **Franz Kafka**
+> "He will win who knows when to fight and when not to fight."
+> — **Sun Tzu**
 <!-- END_QUOTE -->
 
 ---
