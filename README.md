@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "He will win who knows when to fight and when not to fight."
-> — **Sun Tzu**
+> "Anyone who wants to achieve a dream must stay strong, focused and steady."
+> — **Estee Lauder**
 <!-- END_QUOTE -->
 
 ---
