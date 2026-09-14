@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Anyone who wants to achieve a dream must stay strong, focused and steady."
-> — **Estee Lauder**
+> "Do what you feel in your heart to be right - for you'll be criticized anyway."
+> — **Eleanor Roosevelt**
 <!-- END_QUOTE -->
 
 ---
