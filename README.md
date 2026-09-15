@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Do what you feel in your heart to be right - for you'll be criticized anyway."
-> — **Eleanor Roosevelt**
+> "Failure is a prerequisite for great success. If you want success faster, double your rate of failure."
+> — **Brian Tracy**
 <!-- END_QUOTE -->
 
 ---
