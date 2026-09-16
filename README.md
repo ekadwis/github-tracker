@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Failure is a prerequisite for great success. If you want success faster, double your rate of failure."
-> — **Brian Tracy**
+> "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."
+> — **Alfred Adler**
 <!-- END_QUOTE -->
 
 ---
