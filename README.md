@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."
-> — **Alfred Adler**
+> "Work out your own salvation. Do not depend on others."
+> — **Buddha**
 <!-- END_QUOTE -->
 
 ---
