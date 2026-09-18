@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Work out your own salvation. Do not depend on others."
-> — **Buddha**
+> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
+> — **William Faulkner**
 <!-- END_QUOTE -->
 
 ---
