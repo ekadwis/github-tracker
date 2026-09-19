@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
-> — **William Faulkner**
+> "I will not walk backward in life."
+> — **J.R.R. Tolkien**
 <!-- END_QUOTE -->
 
 ---
