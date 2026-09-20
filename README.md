@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "I will not walk backward in life."
-> — **J.R.R. Tolkien**
+> "There are no shortcuts to any place worth going."
+> — **Beverly Sills**
 <!-- END_QUOTE -->
 
 ---
