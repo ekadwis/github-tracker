@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "There are no shortcuts to any place worth going."
-> — **Beverly Sills**
+> "The road to success is always under construction."
+> — **Steve Harvey**
 <!-- END_QUOTE -->
 
 ---
