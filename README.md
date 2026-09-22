@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The road to success is always under construction."
-> — **Steve Harvey**
+> "To live is the rarest thing in the world. Most people exist, that is all."
+> — **Oscar Wilde**
 <!-- END_QUOTE -->
 
 ---
