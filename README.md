@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "To live is the rarest thing in the world. Most people exist, that is all."
-> — **Oscar Wilde**
+> "Success is not to be pursued, it is to be attracted by the person you become."
+> — **Jim Rohn**
 <!-- END_QUOTE -->
 
 ---
