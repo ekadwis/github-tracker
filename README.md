@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Success is not to be pursued, it is to be attracted by the person you become."
-> — **Jim Rohn**
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
+> — **Brian Tracy**
 <!-- END_QUOTE -->
 
 ---
