@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
-> — **Brian Tracy**
+> "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."
+> — **Henry Ward Beecher**
 <!-- END_QUOTE -->
 
 ---
