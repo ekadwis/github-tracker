@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."
-> — **Henry Ward Beecher**
+> "The more you are motivated by Love, The more Fearless & Free your action will be."
+> — **Dalai Lama**
 <!-- END_QUOTE -->
 
 ---
