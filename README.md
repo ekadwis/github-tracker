@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The more you are motivated by Love, The more Fearless & Free your action will be."
-> — **Dalai Lama**
+> "Putting off an easy thing makes it hard, and putting off a hard one makes it impossible."
+> — **George Lorimer**
 <!-- END_QUOTE -->
 
 ---
