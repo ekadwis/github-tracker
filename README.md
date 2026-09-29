@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The secret of success lies not in doing your own work, but in recognizing the right man to do it."
-> — **Andrew Carnegie**
+> "It's not the love you make. It's the love you give."
+> — **Nikola Tesla**
 <!-- END_QUOTE -->
 
 ---
