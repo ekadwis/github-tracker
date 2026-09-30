@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "It's not the love you make. It's the love you give."
-> — **Nikola Tesla**
+> "The traveler sees what he sees. The tourist sees what he has come to see."
+> — **Gilbert Chesterton**
 <!-- END_QUOTE -->
 
 ---
