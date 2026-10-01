@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The traveler sees what he sees. The tourist sees what he has come to see."
-> — **Gilbert Chesterton**
+> "Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."
+> — **Kabir**
 <!-- END_QUOTE -->
 
 ---
