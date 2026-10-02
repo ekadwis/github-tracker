@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."
-> — **Kabir**
+> "The less you talk about your shame, the more of it you have."
+> — **Mark Manson**
 <!-- END_QUOTE -->
 
 ---
