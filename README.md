@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The less you talk about your shame, the more of it you have."
-> — **Mark Manson**
+> "The most important thing in communication is to hear what isn't being said."
+> — **Peter Drucker**
 <!-- END_QUOTE -->
 
 ---
