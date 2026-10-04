@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The most important thing in communication is to hear what isn't being said."
-> — **Peter Drucker**
+> "Friendship is one of the most tangible things in a world which offers fewer and fewer supports."
+> — **Kenneth Branagh**
 <!-- END_QUOTE -->
 
 ---
