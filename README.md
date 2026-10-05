@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Friendship is one of the most tangible things in a world which offers fewer and fewer supports."
-> — **Kenneth Branagh**
+> "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."
+> — **Sonia Ricotti**
 <!-- END_QUOTE -->
 
 ---
