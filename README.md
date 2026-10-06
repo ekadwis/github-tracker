@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."
-> — **Sonia Ricotti**
+> "Knowledge is a treasure, but practice is the key to it."
+> — **Lao Tzu**
 <!-- END_QUOTE -->
 
 ---
