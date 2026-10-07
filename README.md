@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Knowledge is a treasure, but practice is the key to it."
-> — **Lao Tzu**
+> "Reversing your treatment of the man you have wronged is better than asking his forgiveness."
+> — **Elbert Hubbard**
 <!-- END_QUOTE -->
 
 ---
