@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Reversing your treatment of the man you have wronged is better than asking his forgiveness."
-> — **Elbert Hubbard**
+> "Use your smile to change the world but don't let the world change your smile."
+> — **Unknown**
 <!-- END_QUOTE -->
 
 ---
