@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Use your smile to change the world but don't let the world change your smile."
-> — **Unknown**
+> "Passion creates, addiction consumes."
+> — **Gabor Mate**
 <!-- END_QUOTE -->
 
 ---
