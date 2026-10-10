@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Passion creates, addiction consumes."
-> — **Gabor Mate**
+> "Our life isn't how much we can take out, but how much we can put in."
+> — **Estee Lauder**
 <!-- END_QUOTE -->
 
 ---
