@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Our life isn't how much we can take out, but how much we can put in."
-> — **Estee Lauder**
+> "Problems remain as problems because people are busy defending them rather than finding solutions."
+> — **Celestine Chua**
 <!-- END_QUOTE -->
 
 ---
