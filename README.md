@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Problems remain as problems because people are busy defending them rather than finding solutions."
-> — **Celestine Chua**
+> "The secret of life is to fall seven times and to get up eight times."
+> — **Paulo Coelho**
 <!-- END_QUOTE -->
 
 ---
