@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Lust, anger and greed are the three gates to self-destructive hell."
-> — **Bhagavad Gita**
+> "He who knows, does not speak. He who speaks, does not know."
+> — **Lao Tzu**
 <!-- END_QUOTE -->
 
 ---
