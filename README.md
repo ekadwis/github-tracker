@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "He who knows, does not speak. He who speaks, does not know."
-> — **Lao Tzu**
+> "In three words I can sum up everything I've learned about life: it goes on."
+> — **Robert Frost**
 <!-- END_QUOTE -->
 
 ---
