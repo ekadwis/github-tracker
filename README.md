@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "In three words I can sum up everything I've learned about life: it goes on."
-> — **Robert Frost**
+> "Dreams are for dreamers. Goals are for achievers."
+> — **Arnold Schwarzenegger**
 <!-- END_QUOTE -->
 
 ---
