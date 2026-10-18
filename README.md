@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Dreams are for dreamers. Goals are for achievers."
-> — **Arnold Schwarzenegger**
+> "Amateurs sit and wait for inspiration, the rest of us just get up and got to work."
+> — **Stephen King**
 <!-- END_QUOTE -->
 
 ---
