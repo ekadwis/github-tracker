@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Amateurs sit and wait for inspiration, the rest of us just get up and got to work."
-> — **Stephen King**
+> "Awakening is possible only for those who seek it and want it."
+> — **G.I. Gurdjieff**
 <!-- END_QUOTE -->
 
 ---
