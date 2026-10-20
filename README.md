@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Awakening is possible only for those who seek it and want it."
-> — **G.I. Gurdjieff**
+> "Your only limitations are those you set up in your mind or permit others to set up for you."
+> — **Og Mandino**
 <!-- END_QUOTE -->
 
 ---
