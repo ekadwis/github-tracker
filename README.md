@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Your only limitations are those you set up in your mind or permit others to set up for you."
-> — **Og Mandino**
+> "One of the most difficult things is not to change society - but to change yourself."
+> — **Nelson Mandela**
 <!-- END_QUOTE -->
 
 ---
