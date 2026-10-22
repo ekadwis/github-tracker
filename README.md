@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "One of the most difficult things is not to change society - but to change yourself."
-> — **Nelson Mandela**
+> "Sometimes letting things go is an act of far greater power than defending or hanging on."
+> — **Eckhart Tolle**
 <!-- END_QUOTE -->
 
 ---
