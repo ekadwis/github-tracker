@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Sometimes letting things go is an act of far greater power than defending or hanging on."
-> — **Eckhart Tolle**
+> "Believe that life is worth living and your belief will help create the fact."
+> — **William James**
 <!-- END_QUOTE -->
 
 ---
