@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Believe that life is worth living and your belief will help create the fact."
-> — **William James**
+> "The shoe that fits one person pinches another; there is no recipe for living that suits all cases."
+> — **Carl Jung**
 <!-- END_QUOTE -->
 
 ---
