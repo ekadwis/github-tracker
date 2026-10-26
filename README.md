@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Life is a gift. Never forget to enjoy and bask in every moment you are in."
-> — **Celestine Chua**
+> "If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."
+> — **Paramahansa Yogananda**
 <!-- END_QUOTE -->
 
 ---
