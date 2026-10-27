@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."
-> — **Paramahansa Yogananda**
+> "People will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+> — **Maya Angelou**
 <!-- END_QUOTE -->
 
 ---
