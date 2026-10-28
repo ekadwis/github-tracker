@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "People will forget what you said, people will forget what you did, but people will never forget how you made them feel."
-> — **Maya Angelou**
+> "Not all readers are leaders, but all leaders are readers."
+> — **Harry S. Truman**
 <!-- END_QUOTE -->
 
 ---
