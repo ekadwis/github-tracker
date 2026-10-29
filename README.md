@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Not all readers are leaders, but all leaders are readers."
-> — **Harry S. Truman**
+> "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."
+> — **Estee Lauder**
 <!-- END_QUOTE -->
 
 ---
