@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."
-> — **Estee Lauder**
+> "The sweetest pleasure arises from difficulties overcome."
+> — **Publilius Syrus**
 <!-- END_QUOTE -->
 
 ---
