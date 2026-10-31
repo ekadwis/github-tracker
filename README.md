@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The sweetest pleasure arises from difficulties overcome."
-> — **Publilius Syrus**
+> "Nothing that results in human progress is achieved with unanimous consent."
+> — **Christopher Columbus**
 <!-- END_QUOTE -->
 
 ---
