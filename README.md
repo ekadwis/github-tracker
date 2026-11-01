@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Nothing that results in human progress is achieved with unanimous consent."
-> — **Christopher Columbus**
+> "The traveler sees what he sees. The tourist sees what he has come to see."
+> — **Gilbert Chesterton**
 <!-- END_QUOTE -->
 
 ---
