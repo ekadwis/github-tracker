@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "A poet should be so crafty with words that he is envied even for his pains."
-> — **Criss Jami**
+> "I am who I am today because of the choices I made yesterday."
+> — **Eleanor Roosevelt**
 <!-- END_QUOTE -->
 
 ---
