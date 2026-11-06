@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "I am who I am today because of the choices I made yesterday."
-> — **Eleanor Roosevelt**
+> "Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."
+> — **D. H. Lawrence**
 <!-- END_QUOTE -->
 
 ---
