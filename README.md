@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "What most people need to learn in life is how to love people and use things instead of using people and loving things."
-> — **Unknown**
+> "Only those who dare to fail greatly can ever achieve greatly."
+> — **Robert F. Kennedy**
 <!-- END_QUOTE -->
 
 ---
