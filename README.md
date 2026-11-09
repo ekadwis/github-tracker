@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Only those who dare to fail greatly can ever achieve greatly."
-> — **Robert F. Kennedy**
+> "Greatness lies not in being strong, but in the right use of strength."
+> — **Henry Ward Beecher**
 <!-- END_QUOTE -->
 
 ---
