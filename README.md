@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Life's too mysterious to take too serious."
-> — **Mary Engelbreit**
+> "Become the kind of leader that people would follow voluntarily, even if you had no title or position."
+> — **Brian Tracy**
 <!-- END_QUOTE -->
 
 ---
