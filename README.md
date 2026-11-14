@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Become the kind of leader that people would follow voluntarily, even if you had no title or position."
-> — **Brian Tracy**
+> "All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."
+> — **James Allen**
 <!-- END_QUOTE -->
 
 ---
