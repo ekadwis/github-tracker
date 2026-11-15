@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."
-> — **James Allen**
+> "Don't let the behavior of others destroy your inner peace."
+> — **Dalai Lama**
 <!-- END_QUOTE -->
 
 ---
