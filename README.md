@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Don't let the behavior of others destroy your inner peace."
-> — **Dalai Lama**
+> "Better to have, and not need, than to need, and not have."
+> — **Franz Kafka**
 <!-- END_QUOTE -->
 
 ---
