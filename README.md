@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Better to have, and not need, than to need, and not have."
-> — **Franz Kafka**
+> "If you do not go within, you go without."
+> — **Neale Donald Walsch**
 <!-- END_QUOTE -->
 
 ---
