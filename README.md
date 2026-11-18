@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "If you do not go within, you go without."
-> — **Neale Donald Walsch**
+> "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well."
+> — **Jack London**
 <!-- END_QUOTE -->
 
 ---
