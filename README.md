@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The way to get started is to quit talking and begin doing."
-> — **Walt Disney**
+> "Plants grow weak without wind."
+> — **Maxime Lagace**
 <!-- END_QUOTE -->
 
 ---
