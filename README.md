@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Plants grow weak without wind."
-> — **Maxime Lagace**
+> "The wise learn many things from their enemies."
+> — **Aristophanes**
 <!-- END_QUOTE -->
 
 ---
