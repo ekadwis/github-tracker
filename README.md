@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The wise learn many things from their enemies."
-> — **Aristophanes**
+> "The present moment is filled with joy and happiness. If you are attentive, you will see it."
+> — **Thich Nhat Hanh**
 <!-- END_QUOTE -->
 
 ---
