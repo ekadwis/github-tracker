@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The present moment is filled with joy and happiness. If you are attentive, you will see it."
-> — **Thich Nhat Hanh**
+> "Our thoughts are highly influenced by the people around us and everything we read, see, and do."
+> — **Jeff Booth**
 <!-- END_QUOTE -->
 
 ---
