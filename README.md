@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Our thoughts are highly influenced by the people around us and everything we read, see, and do."
-> — **Jeff Booth**
+> "Wishing to be friends is quick work, but friendship is a slow ripening fruit."
+> — **Aristotle**
 <!-- END_QUOTE -->
 
 ---
