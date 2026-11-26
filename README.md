@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "Wishing to be friends is quick work, but friendship is a slow ripening fruit."
-> — **Aristotle**
+> "Age is a very high price to pay for maturity."
+> — **William James**
 <!-- END_QUOTE -->
 
 ---
