@@ -3,8 +3,8 @@
 Selamat datang di repository saya!
 
 <!-- START_QUOTE -->
-> "The joy of life comes from our encounters with new experiences."
-> — **Christopher McCandless**
+> "Worry is a waste of emotional reserve."
+> — **Ayn Rand**
 <!-- END_QUOTE -->
 
 ---
